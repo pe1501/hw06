@@ -1,5 +1,5 @@
 # hw06
-## Codigo ASCCI
+## Codigo ASCII
 Imprima en pantalla la tabla del codigo ASCII
 
 Par mas detalles del codigo [ASCCI](http://en.wikipedia.org/wiki/ASCII)
